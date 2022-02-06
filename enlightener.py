@@ -1,0 +1,1 @@
+print("Dark mode is better than light mode.")
